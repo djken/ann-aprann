@@ -1,0 +1,55 @@
+.bg-black {
+    background: #000;
+}
+
+.size-menu {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.text-black {
+    color: #000;
+}
+.pad-top{
+    padding: 150px 0;
+}
+
+.bg-image{
+    background: url(https://cdn.betakit.com/wp-content/uploads/2018/02/computer2.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+hr{
+    border-top: 1px solid rgb(170, 177, 190);
+}
+
+.h-light {
+    border-top: 1px solid rgb(170, 177, 190);
+}
+
+.btn-hover {
+    text-transform: uppercase;
+    border: #45526E solid 1px;
+    color: #45526E ;
+}
+
+.btn-hover:hover{
+    background-color: #45526E;
+    color: rgb(255, 255, 255);
+}
+
+.dropdown-menu{
+    /* background-color: transparent; */
+    background-color: #45526E;
+    border: transparent;
+    border: none;
+}
+
+.dropdown-menu a:hover{
+    background-color: rgb(49, 56, 71);
+
+}
+  
+.bg-foot{
+    background-color: #45526E;
+}
