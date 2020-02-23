@@ -1,3 +1,8 @@
+body {
+    font-family: 'Roboto', sans-serif !important;
+    background: rgb(77, 117, 124, 0.1);
+  }
+
 .bg-black {
     background: #000;
 }
@@ -17,8 +22,14 @@
 .bg-image{
     background: url(https://cdn.betakit.com/wp-content/uploads/2018/02/computer2.jpg) no-repeat center center;
     background-size: cover;
-}
+    
+  }
 
+.transbox {
+    background: rgba(173, 173, 173, 0.1);
+    padding: 60px 0;
+}
+  
 hr{
     border-top: 1px solid rgb(170, 177, 190);
 }
@@ -51,5 +62,5 @@ hr{
 }
   
 .bg-foot{
-    background-color: #45526E;
+    background-color: rgb(52, 67, 97);
 }
